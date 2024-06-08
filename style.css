@@ -49,7 +49,7 @@ h4 {
 .main_container {
     height: 100vh;
     color: #fff;
-    background: url('background.jpg') no-repeat center center;
+    background: url('background1.jpg') no-repeat center center;
     background-size: cover;
     display: flex;
     align-items: center;
